@@ -1,19 +1,25 @@
-# wallpaper_setter_app
 
-A new Flutter project.
 
-## Getting Started
+# Wallpaper App
 
-This project is a starting point for a Flutter application.
+Welcome to the Wallpaper App, a Flutter project designed to provide users with a seamless experience to browse and set wallpapers for their devices.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Browse Wallpapers:** Explore a grid view of pictures sourced using the Pexels API.
+- **Set Wallpaper:** Directly set wallpapers from the app without navigating to the device settings.
+- **Search Functionality:** Quickly find wallpapers using the built-in search feature.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter:** The app is built using Flutter, ensuring a smooth and responsive UI across different platforms.
+
+
+  
+## App Video
+
+
+
 
 
 
